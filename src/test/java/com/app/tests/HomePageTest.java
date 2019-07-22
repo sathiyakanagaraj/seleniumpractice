@@ -117,7 +117,9 @@ public class HomePageTest {
 	@Test
 	public void verifyselectsizeCheckbox() {
 	 homepage.clickSizeCheckbox();
-		
+           
+
+system.out.println();		
 	}
 	
 	
